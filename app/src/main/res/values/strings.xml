@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Wayfare</string>
+    <string name="title_activity_providers">Providers</string>
+    <string name="title_activity_shalom">Shalom</string>
+    <string name="title_activity_ticket">Ticket</string>
+</resources>
